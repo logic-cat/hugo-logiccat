@@ -1,8 +1,7 @@
 modalID: 1
-title: Snow Tanks
+title: Snow Tanks<br><br><a href='//www.microsoft.com/store/apps/9p235hhrgmph?cid=storebadge&ocid=badge'><img src='img/windowsphone.png' alt='Get it from Microsft'/></a>
 subtitle: A 4 player tank battle.
 date: Dec 2018
 img: snowtanks.jpg
 preview: snowtanks-preview.png
-category: Game
-description: A 4 player tank battle made for the IGDA San Diego December Showcase.<br>[Download for free for Windows 10 and Xbox One](https://www.microsoft.com/en-us/p/snow-tanks/9p235hhrgmph)
+description: A 4 player tank battle made for the IGDA San Diego December Showcase.<br>Available on Xbox and Windows.
